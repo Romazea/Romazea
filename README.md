@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi I'm Romazea 👋</h1>
 
-<!--
-**Romazea/Romazea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="https://discord.com/invite/ryDDQmaDPz"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+  <a><img src="https://komarev.com/ghpvc/?username=romazea&label=Profile%20views&color=0e75b6&style=flat" alt="romazea"/></a>
 
-Here are some ideas to get you started:
+</p>
+<h2>About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  A beginner developer who loves software, video games, modding, data science, and more. I try to learn as much as possible.
+</p>
+
+<h3 align="left">Languages & Frameworks</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,python,numpy" />
+  </a>
+</p>
+
+<h3 align="left">Tools & Software</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,blender,photoshop,audacity,obs" />
+  </a>
+</p>
