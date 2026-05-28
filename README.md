@@ -15,7 +15,7 @@
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,py" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,rust,py" />
   </a>
 </p>
 
