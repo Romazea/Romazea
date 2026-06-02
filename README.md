@@ -23,7 +23,7 @@
 <h3 align="left">Tools and Software</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,gitbash,github,linux,ubuntu,ps,blender,audacity,obs,discord,steam,windows,telegram,brave" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,tauri,gitbash,github,linux,ubuntu,ps,blender,audacity,obs,discord,steam,windows,telegram,brave" />
   </a>
 </p>
 
